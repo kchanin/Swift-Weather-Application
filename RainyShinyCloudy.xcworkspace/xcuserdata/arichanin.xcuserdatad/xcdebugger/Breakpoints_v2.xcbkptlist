@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RainyShinyCloudy/WeatherVC.swift"
+            timestampString = "508705598.295729"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "downloadForecastData(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RainyShinyCloudy.WeatherVC.downloadForecastData (completed : () -&gt; ()) -&gt; ()"
+                  moduleName = "RainyShinyCloudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arichanin/Developer/Swift/Devslopes/core-iOS/rainy-shiny/RainyShinyCloudy/RainyShinyCloudy/WeatherVC.swift"
+                  timestampString = "508695722.831581"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "427">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RainyShinyCloudy.WeatherVC.(downloadForecastData (completed : () -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "RainyShinyCloudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arichanin/Developer/Swift/Devslopes/core-iOS/rainy-shiny/RainyShinyCloudy/RainyShinyCloudy/WeatherVC.swift"
+                  timestampString = "508695722.833085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
